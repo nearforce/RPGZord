@@ -5,7 +5,7 @@
 
 }
 body {
-    background: #48483A;
+    background: #2A2D34;
     height: 100vh;
     font-family: 'Lato', sans-serif;
     flex-direction: column;
@@ -16,19 +16,18 @@ section {
     height: calc(100vh - 10rem);
     align-items: center;
     justify-content: center;
-
 }
 a:visited {
-    color: black;
+    color: #ffffff;
 }
 a:hover {
-    color: #61C2A2;
+    color: #000000;
 }
 a {
-    color: black;
+    color: #ffffff;
     text-decoration: none;
     padding: 2rem;
-    background-color: #DFF8EB;
+    background-color: #226CE0;
     margin-bottom: 1rem;
     text-align: center;
     width: 20rem;
@@ -36,14 +35,14 @@ a {
 .logo {
     height: 10rem;
     width: 20rem;
-    margin:auto;
+    margin: auto;
 }
 header {
     height: 10rem;
     width: 100vw;
     display: flex;
     justify-content: center;
-    background: #DFF8EB;
+    background: #226CE0;
     text-align: center;
 }
 .Raca, .classes {
