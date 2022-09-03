@@ -10,6 +10,7 @@ body {
     height: 100vh;
     font-family: 'Lato', sans-serif;
     flex-direction: column;
+    overflow-x: hidden;
 }
 
 section {
@@ -47,11 +48,12 @@ a {
 
 header {
     height: 9rem;
-    width: 99.1vw;
+    width: 100vw;
     display: flex;
     justify-content: center;
     background: #226CE0;
     text-align: center;
+    
 }
 
 header>a:hover {
